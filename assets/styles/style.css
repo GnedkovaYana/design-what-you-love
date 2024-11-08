@@ -1,11 +1,14 @@
-.landing{
-    width: 1440px;
-    height: 960px;
-}
+
+    main{
+        display: flex;
+        justify-content: center;
+        
+    }
 
     .container{
         background-color: #EFAF64;
-        width: 1440px;
+        width: 100%;
+        min-width: 1440px;
         height: 875px;
         display: flex;
         flex-wrap: wrap;
